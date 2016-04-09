@@ -12,7 +12,7 @@ lmfit:
 https://pypi.python.org/packages/2.7/l/lmfit/lmfit-0.7.4.win32-py2.7.exe
 
 This is a screen shot of the program which has fit an absorption spectra of the provided (6,5)/(6,4) semiconducting enriched SWCNT sample:
-![ScreenShot](http://imgur.com/ybhHaOf)
+![ScreenShot](http://imgur.com/ybhHaOf.jpg)
 
 
 This program was written by Chase Brown and is under the GNU General Public License.
