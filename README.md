@@ -16,7 +16,10 @@ This is a screen shot of the program which has fit an absorption spectra of the 
 
 
 This program was written by Chase Brown and is under the GNU General Public License.  (A Copyleft License)
+
 This program is free to use for any research, as long as this this thesis and github page are cited:
+
 https://github.com/chaxor/Spectro
+
 Brown, Chase. “CARBON NANOTUBES AND MAGNETIC PARTICLES AS PICKERING EMULSION STABALIZERS: 
 PARTICLE CONTROL FOR PHASE SELECTIVE REACTIONS” Master’s thesis, University of Oklahoma, 2016.
