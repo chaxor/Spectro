@@ -23,3 +23,4 @@ https://github.com/chaxor/Spectro
 
 Brown, Chase. “CARBON NANOTUBES AND MAGNETIC PARTICLES AS PICKERING EMULSION STABALIZERS: 
 PARTICLE CONTROL FOR PHASE SELECTIVE REACTIONS” Master’s thesis, University of Oklahoma, 2016.
+https://shareok.org/bitstream/handle/11244/41473/2016_Brown_Chase_Thesis.pdf
