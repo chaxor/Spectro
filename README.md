@@ -3,6 +3,18 @@ Spectro
 This program analyzes UV-VIS absorption spectra from aqueous surfactant suspended dispersions of carbon nanotubes.
 It does so by fitting absorption profile models from the literature with a linear regression at each step of a non-linear regression fitting of the background (amorphous carbon and pi plasmon resonances) model.
 
+### Installation
+First install qt4 and micromamba (or miniconda/anaconda) with your system's package manager. (E.g. `yay micromamba && yay qt4` or `apt-get install micromamba && apt-get install qt4`)
+
+Then use anaconda to create the environment:
+```bash
+micromamba create -n spectro_env python=2.7 anaconda
+micromamba config --add channels conda-forge
+micromamba config --set channel_priority strict
+micromamba install -n spectro_env pyqt=4.11.4 matplotlib numpy scipy=1.2.1 xlsxwriter=1.1.5 lmfit=0.9.11
+```
+
+
 This program is written using python 2.7 with a Qt4 Gui and has the following dependencies:
 
 pythonxy:
