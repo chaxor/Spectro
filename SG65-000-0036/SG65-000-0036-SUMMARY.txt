@@ -1,0 +1,3 @@
+A	B
+Fluor SC ratio	BWF SC ratio
+0.90686	0.53232
